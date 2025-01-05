@@ -1,0 +1,10 @@
+.soumen{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    color: blue;
+    padding: 10px;
+    border: 10px solid rgba(125, 47, 202, 0.801);
+    box-shadow: 10px 20px 25px;
+    border-radius: 10px 15px 5px 10px;
+    
+}
