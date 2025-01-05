@@ -6,5 +6,14 @@
     border: 10px solid rgba(125, 47, 202, 0.801);
     box-shadow: 10px 20px 25px;
     border-radius: 10px 15px 5px 10px;
-    
+}
+.sourve,.joy{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 10px solid rgba(180, 0, 180, 0.925);
+    border-radius: 15px;
+    background-color: brown;
+    padding: 20px;
+    box-shadow: 10px 25px 30px;
+    padding: 40px;
+    margin: 25px;
 }
